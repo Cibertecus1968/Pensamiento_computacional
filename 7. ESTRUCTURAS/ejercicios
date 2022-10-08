@@ -1,0 +1,31 @@
+1 inicio
+2 ASIGNAR INT (NUM)
+3 MOSTRAR 	
+4 ASIGNAR num
+5 SI num ==0 ENTONCES
+    MOSTRAR "NUMERO 
+  SINO 
+    SI num>0 ENTONCES
+      MOSTRAR "NUMERO POSITIVO "
+    SINO 
+      MOSTRAR "NUMERO NEGATIVO"
+    finsi
+  FINSI
+6 TERMINAR
+
+
+1 INICIAR
+2 ASIGNAR LETRA  (CHAR)
+3 MOSTRAR "DAMELETRA"	
+4 ASIGNAR LETRA==""
+5 SI LETRA =="A "OR =="a" OR "E" OR "e" OR  "I" OR "i" OR "O" OR "o" OR "U" OR "u" ENTONCES
+    MOSTRAR "ES VOCAL"
+  SINO 
+    MOSTRAR "NO ES VOCAL"
+  FINSI
+6 TERMINAR
+
+  pedir 3 numero
+ordenar de mayor a menor
+con if
+  
